@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @xxPriyanshuSinghxx
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Rect JS
+- 👋 Hi, I’m @priyanshu17291
+- 👀 I've a keen interest in problem solving
+- 🌱 I’m currently JAVA....
 - 💞️ I’m looking to collaborate on worldy problems
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
