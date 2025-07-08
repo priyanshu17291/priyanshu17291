@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @priyanshu17291
-- 👀 I've a keen interest in problem solving
-- 🌱 I’m currently JAVA....
+- 👀 I've a keen interest in problem solving\
 - 💞️ I’m looking to collaborate on worldy problems
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
